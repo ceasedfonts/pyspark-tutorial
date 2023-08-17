@@ -80,3 +80,8 @@ $p = \frac{1}{1 + e^{-(\beta_0 + \beta_1 \cdot \text{age} + \beta_2 \cdot \text{
 ## Solving the Mystery
 
 In the end, logistic regression helps the detective solve the classification mystery. By plugging in the clues and using the equation, the detective calculates the probability of someone being a suspect. This makes logistic regression a powerful tool for classifying things like spam emails, disease risks, and much more!
+
+## The Titanic Dataset
+
+In this example, we are using the well-known Titanic dataset for Machine Learning and Logistic Regression to predic the survival of passengers. The dataset is available on Kaggle at https://www.kaggle.com/c/titanic/data.
+
