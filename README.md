@@ -83,5 +83,5 @@ In the end, logistic regression helps the detective solve the classification mys
 
 ## The Titanic Dataset
 
-In this example, we are using the well-known Titanic dataset for Machine Learning and Logistic Regression to predic the survival of passengers. The dataset is available on Kaggle at https://www.kaggle.com/c/titanic/data.
+In this example, we are using the well-known Titanic dataset for Machine Learning and Logistic Regression to predict the survival of passengers. The dataset is available on Kaggle at https://www.kaggle.com/c/titanic/data.
 
